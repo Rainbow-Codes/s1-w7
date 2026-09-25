@@ -6,7 +6,7 @@ public class WeightMain{
         m1.print();
         m2.print();
 
-        System.out.println(m1.isHeavier(m2));
+        System.out.println(m1.isHeavier(m2));args
 
         Weight m3 = m1.multiple(2);
 
